@@ -1,4 +1,4 @@
-# RubyCodewarsSolutions
+# CodewarsSolutions
 A repo for me to add my solutions to Codewars kata, and invite comments on them. 
 
 - I was introduced to Codewars through the application process of a coding school, and quickly was drawn into its gameified featureset
